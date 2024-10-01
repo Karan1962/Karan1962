@@ -15,4 +15,4 @@
 - Hacktoberfest and GSoC
 
 ⚡ Fun fact:
-- 😃Trying to prove that a degree doesn't matter to get a job
+- 😃Trying to prove myself that a degree doesn't matter to get a job
