@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hi, I'm Karan!
+## 💻 Full Stack Developer | Node.js | Express.js | MongoDB | React | Tailwind CSS
 
-<!--
-**Karan1962/Karan1962** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🛠️ Tech Stack:
+-- Frontend: HTML5, CSS3, JavaScript, React, Tailwind CSS
+-- Backend: Node.js, Express.js
+-- Database: MongoDB 
+-- Tools & Frameworks: Git, Clerk , Next.Js , Redux-Toolkit
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning :-
+      Next.js | Docker |  Websockets | Redis | Kubernetes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 I’m looking for help with :-
+      An open source contributions.
+      Hectoberfest and gsoc.
+
+- ⚡ Fun fact :-
+    😃 Trying to prove myself degree doesn't matter to get a job 
+
