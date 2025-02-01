@@ -16,3 +16,7 @@
 
 ⚡ Fun fact:
 - 😃Trying to prove myself that a degree doesn't matter to get a job
+
+## 🌟 Hacktoberfest 2024 Contributor
+![My Hacktoberfest Badge](https://holopin.me/karan1962)
+
